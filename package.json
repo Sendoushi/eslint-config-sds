@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-sds",
+  "version": "0.0.1",
+  "description": "Eslint configurations for Sendoushi",
+  "main": "eslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sendoushi/eslint-config-sds.git"
+  },
+  "author": "Joel Santos <joel@sendoushi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sendoushi/eslint-config-sds/issues"
+  },
+  "homepage": "https://github.com/Sendoushi/eslint-config-sds#readme",
+  "dependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-defaults": "^8.0.2",
+    "eslint-plugin-react": "^3.16.1"
+  }
+}
