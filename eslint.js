@@ -1,7 +1,6 @@
 "use strict";
 
 module.exports = {
-    "root": true,
     "rules": {
         "strict": [2, "global"],
         "indent": [2, 4],

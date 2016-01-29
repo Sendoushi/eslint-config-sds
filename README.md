@@ -9,7 +9,7 @@ Sendoushi ESLint configurations.
 Install this config package and ESLint:
 
 ```bash
-$ npm install --save-dev eslint git+https://git@github.com:Sendoushi/eslint-config-sds.git
+$ npm install --save-dev eslint babel-eslint eslint-config-defaults eslint-plugin-react git+https://git@github.com:Sendoushi/eslint-config-sds.git
 ```
 
 ## Usage
