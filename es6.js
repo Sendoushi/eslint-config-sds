@@ -2,7 +2,7 @@
 
 module.exports = {
     "extends": [
-        "defaults/configurations/airbnb/es5",
+        "defaults/configurations/airbnb/es6",
         "sds"
     ]
 };
