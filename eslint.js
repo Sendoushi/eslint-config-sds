@@ -7,6 +7,7 @@ module.exports = {
         "comma-dangle": [2, "never"],
         "func-names": [0],
         "no-param-reassign": [1],
-        "consistent-return": [0]
+        "consistent-return": [0],
+        "prefer-const": [0]
     }
 };
