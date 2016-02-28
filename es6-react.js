@@ -6,6 +6,6 @@ module.exports = {
         "sds"
     ],
     "rules": {
-        "react/prefer-es6-class": [0]
+        "react/prefer-es6-class": [2, "never"]
     }
 };
