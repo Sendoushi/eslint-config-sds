@@ -1,3 +1,9 @@
+# Deprecated
+
+No longer using or maintaining this.
+
+--------------------------
+
 # eslint-config-sds
 
 Sendoushi ESLint configurations.
